@@ -24,10 +24,7 @@ background:transparent;
 	animation-direction:alternate;
 	animation-duration:3s;
 }
-@keyframes {
-	from{width:700px;}
-	to{width:1200px;}
-}
+
 .icon{
 	font-size:150px;
 }
@@ -81,10 +78,7 @@ figure:hover{
 	animation-direction:ease-in;
 	
 }
-@keyframes guru{
-	from {width:10px;}
-	to{width:1422px;}
-}
+
 
 
 .card:hover{
@@ -145,8 +139,5 @@ figure:hover{
 	animation-direction:ease-in;
 	
 }
-@keyframes guru{
-	from {width:0px;}
-	to{width:485px;}
-}
+
 }
